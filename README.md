@@ -34,6 +34,6 @@ hii ✋
 
 ~~this is a mistake~~
 
-** this is *extemely* important **
+r
 
 > text this a qoute
