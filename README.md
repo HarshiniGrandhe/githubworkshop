@@ -9,8 +9,9 @@
 **bold type of fontstyle**
 
 ***italic and bold type of font style*** 
+
 * Fruits
-  * Oranges
+  * oranges
   * apples
   * bananas
 1. vegetables
