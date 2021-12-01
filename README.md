@@ -10,9 +10,9 @@
 
 ***italic and bold type of font style*** 
 * Fruits
- * Oranges
- * apples
- * bananas
+  * Oranges
+  * apples
+  * bananas
 1. vegetables
    1. onions
    2. carrots
