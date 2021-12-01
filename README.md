@@ -30,8 +30,6 @@ Sno|Name
 2|varsha
 3|komala
 
-:EMOJICODE:
-
 hii ✋
 
 
