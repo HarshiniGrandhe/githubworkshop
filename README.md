@@ -5,4 +5,7 @@
 ##### Heading 5
 ###### Heading 6
 *italic type of fontstyle*
+
 **bold type of fontstyle**
+
+***italic and bold type of font style*** 
