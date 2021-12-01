@@ -18,6 +18,6 @@
    2. carrots
    3. chilli
  
-.[Google](https://www.google.com/)
+[Google](https://www.google.com/)
 
-!.[tajmahal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjVa0nJ_eQwzetqBRTPwSAO7Jk7QQJEvJgK32DWWUMTyLLKX7gEivL-Jzjo5hd1dzN2Y&usqp=CAU)
+![tajmahal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjVa0nJ_eQwzetqBRTPwSAO7Jk7QQJEvJgK32DWWUMTyLLKX7gEivL-Jzjo5hd1dzN2Y&usqp=CAU)
