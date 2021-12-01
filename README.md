@@ -34,5 +34,5 @@ hii ✋
 
 ~~this is a mistake~~
 
-** this is --extemely-- important **
+** this is *extemely* important **
 
